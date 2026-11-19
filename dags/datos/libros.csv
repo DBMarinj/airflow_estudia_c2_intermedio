@@ -1,0 +1,41 @@
+libro_id,titulo,autor,categoria,anio
+1,Dune,Frank Herbert,Ciencia ficción,1965
+2,Emma,Jane Austen,Novela,1815
+3,Cien años de soledad,Gabriel García Márquez,Novela,1967
+4,El principito,Antoine de Saint-Exupéry,Infantil,1943
+5,Fundación,Isaac Asimov,Ciencia ficción,1951
+6,Frankenstein,Mary Shelley,Novela,1818
+7,La metamorfosis,Franz Kafka,Novela,1915
+8,Orgullo y prejuicio,Jane Austen,Novela,1813
+9,Don Quijote de la Mancha,Miguel de Cervantes,Novela,1605
+10,Crimen y castigo,Fiódor Dostoievski,Novela,1866
+11,Pedro Páramo,Juan Rulfo,Novela,1955
+12,El amor en los tiempos del cólera,Gabriel García Márquez,Novela,1985
+13,Neuromante,William Gibson,Ciencia ficción,1984
+14,Solaris,Stanisław Lem,Ciencia ficción,1961
+15,Fahrenheit 451,Ray Bradbury,Ciencia ficción,1953
+16,1984,George Orwell,Ciencia ficción,1949
+17,Un mundo feliz,Aldous Huxley,Ciencia ficción,1932
+18,Alicia en el país de las maravillas,Lewis Carroll,Infantil,1865
+19,Peter Pan,J. M. Barrie,Infantil,1911
+20,Pinocho,Carlo Collodi,Infantil,1883
+21,Matilda,Roald Dahl,Infantil,1988
+22,Breve historia del tiempo,Stephen Hawking,Ciencia,1988
+23,El gen egoísta,Richard Dawkins,Ciencia,1976
+24,Cosmos,Carl Sagan,Ciencia,1980
+25,El origen de las especies,Charles Darwin,Ciencia,1859
+26,Sapiens,Yuval Noah Harari,Historia,2011
+27,"Armas, gérmenes y acero",Jared Diamond,Historia,1997
+28,Las venas abiertas de América Latina,Eduardo Galeano,Historia,1971
+29,Historia de dos ciudades,Charles Dickens,Historia,1859
+30,Veinte poemas de amor,Pablo Neruda,Poesía,1924
+31,Rimas y leyendas,Gustavo Adolfo Bécquer,Poesía,1871
+32,Poemas de José Asunción Silva,José Asunción Silva,Poesía,1908
+33,Hojas de hierba,Walt Whitman,Poesía,1855
+34,El túnel,Ernesto Sabato,Novela,1948
+35,Rayuela,Julio Cortázar,Novela,1963
+36,La vorágine,José Eustasio Rivera,Novela,1924
+37,María,Jorge Isaacs,Novela,1867
+38,Drácula,Bram Stoker,Novela,1897
+39,El hobbit,J. R. R. Tolkien,Infantil,1937
+40,Los juegos del hambre,Suzanne Collins,Ciencia ficción,2008
